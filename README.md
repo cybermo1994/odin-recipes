@@ -1,0 +1,2 @@
+The goal of this project is to practice the HTML skills that i have learned so far thanks to the odin project. I will thus be creating a website for a cooking recipe. it will not be styled with CSS just yet, but i Believe this will be done in the future. 
+Let's get CODING.
